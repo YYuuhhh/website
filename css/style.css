@@ -1,5 +1,5 @@
 body {
-	background:url(../yellow-wall.jpg);
+	background:url(../images/yellow-wall.jpg);
 	margin:0;
 	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 }
@@ -17,7 +17,7 @@ p a:hover {
 	font-style: normal;
 }
 .header {
-	background:url(../bg-header.png) repeat-x;
+	background:url(../images/bg-header.png) repeat-x;
 	height:168px;
 	margin:0 0 41px;
 }
@@ -50,7 +50,7 @@ p a:hover {
 	margin:0;
 }
 .header div ul li.selected {
-	background:url(../border-horizontal.gif) repeat-x left top #252525;
+	background:url(../images/border-horizontal.gif) repeat-x left top #252525;
 }
 .header div ul li {
 	float:left;
@@ -79,7 +79,7 @@ p a:hover {
 	color:#fff;
 }
 .header div div {
-	background:url(../interface.png) no-repeat -10px -606px;
+	background:url(../images/interface.png) no-repeat -10px -606px;
 	height:73px;
 	padding:0;
 	position:absolute;
@@ -114,7 +114,7 @@ p a:hover {
  *margin-right:4px;
 }
 .body div {
-	background:url(../shadow.png) no-repeat left bottom;
+	background:url(../images/shadow.png) no-repeat left bottom;
 	border:0;
 	margin:0 auto;
 	padding:0 30px 42px;
@@ -124,7 +124,7 @@ p a:hover {
 	outline:none;
 }
 .body div div.featured {
-	background:url(../shadow.png) no-repeat left bottom;
+	background:url(../images/shadow.png) no-repeat left bottom;
 	border-radius:0 0 0 0!important;
 	overflow:hidden;
 	padding:0 0 42px!important;
@@ -135,7 +135,7 @@ p a:hover {
 	float:left;
 }
 .body div div.featured div {
-	background:url(../frame1.gif) no-repeat center 12px #757e63;
+	background:url(../images/frame1.gif) no-repeat center 12px #757e63;
 	border:0 none!important;
 	border-radius:0 0 0 0!important;
 	float:left;
@@ -145,11 +145,11 @@ p a:hover {
 	width:300px;
 }
 .body div div.featured div div {
-	background:url(../frame2.gif) no-repeat center 349px;
+	background:url(../images/frame2.gif) no-repeat center 349px;
 	width:auto!important;
 }
 .body div div.featured div div h3 {
-	background:url(../interface.png) no-repeat -1px -680px;
+	background:url(../images/interface.png) no-repeat -1px -680px;
 	border:0 none;
 	color:#534a39;
 	font-size:16px;
@@ -174,7 +174,7 @@ p a:hover {
 	font-size:18px
 }
 .body div div.featured div div a {
-	background:url(../interface.png) no-repeat -10px -855px;
+	background:url(../images/interface.png) no-repeat -10px -855px;
 	color:#fff;
 	display:block;
 	float:none;
@@ -190,7 +190,7 @@ p a:hover {
 	letter-spacing:0.075em;
 }
 .body div div.featured div div a:hover {
-	background:url(../interface.png) no-repeat -266px -751px;
+	background:url(../images/interface.png) no-repeat -266px -751px;
 	color:#fff!important;
 }
 .body div div {
@@ -276,7 +276,7 @@ p a:hover {
 	margin: 25px 0 0 44px;
 }
 .body div div div div div.section ul li {
-	background:url(../interface.png) no-repeat -362px 2px;
+	background:url(../images/interface.png) no-repeat -362px 2px;
 	border-style:none;
 	margin:11px 0 0;
 	padding:0 0 0 20px;
@@ -510,7 +510,7 @@ p a:hover {
 	text-decoration:none;
 }
 .body div div div div.programs div.first ul li.selected a, .body div div div div.competition div.first ul li.selected a, .body div div div div.activities div.first ul li.selected a {
-	background:url(../interface.png) no-repeat -10px -803px!important;
+	background:url(../images/interface.png) no-repeat -10px -803px!important;
 	height:42px;
 	text-shadow:0 -1px 0 #99562e;
 	width:252px;
@@ -519,7 +519,7 @@ p a:hover {
 	color:#fff;
 }
 .body div div div div.programs div.first ul li a, .body div div div div.competition div.first ul li a, .body div div div div.activities div.first ul li a {
-	background:url(../interface.png) no-repeat -10px -751px!important;
+	background:url(../images/interface.png) no-repeat -10px -751px!important;
 	color:#fff;
 	display:block;
 	font-size:21px;
@@ -565,7 +565,7 @@ p a:hover {
 	width: auto;
 }
 .body div div div div.competition div ul li {
-	background:url(../interface.png) no-repeat -362px 2px;
+	background:url(../images/interface.png) no-repeat -362px 2px;
 	float:left;
 	margin:0 0 11px;
 	padding:0 0 0 20px;
@@ -599,7 +599,7 @@ p a:hover {
 }
 .body div div div div.activities div ul li {
 	border:0;
-	background:url(../interface.png) no-repeat -362px 9px;
+	background:url(../images/interface.png) no-repeat -362px 9px;
 	padding:0 0 0 20px;
 }
 .body div div div div.activities div.first ul li a {
@@ -623,7 +623,7 @@ p a:hover {
 	width:840px;
 }
 .body div div div div.register form textarea#address {
-	background:url(../interface.png) no-repeat -10px -517px;
+	background:url(../images/interface.png) no-repeat -10px -517px;
 	border:0;
 	color:#776855;
 	font-size:14px;
@@ -680,7 +680,7 @@ p a:hover {
 	width:auto;
 }
 .body div div div div.application form div:first-child input {
-	background:url(../interface.png) no-repeat -10px -946px;
+	background:url(../images/interface.png) no-repeat -10px -946px;
 	border:0;
 	color:#776855;
 	font-size:14px;
@@ -690,7 +690,7 @@ p a:hover {
 	font-size:14px;
 }
 .body div div div div.register form div:first-child input, .body div div div div.contact form input {
-	background:url(../interface.png) no-repeat -10px -1026px;
+	background:url(../images/interface.png) no-repeat -10px -1026px;
 	border:0;
 	color:#776855;
 	font-size:14px;
@@ -700,11 +700,11 @@ p a:hover {
 	font-size:14px;
 }
 .body div div div div.register form div:first-child input#duration, .body div div div div.register form div:first-child input#num-of-children, .body div div div div.register form div:first-child input#name-of-child {
-	background:url(../interface.png) no-repeat -10px -986px;
+	background:url(../images/interface.png) no-repeat -10px -986px;
 	width:260px;
 }
 .body div div div div.register form div:first-child input#age {
-	background:url(../interface.png) no-repeat -301px -690px;
+	background:url(../images/interface.png) no-repeat -301px -690px;
 	float:left;
 	margin:0 0 0 -84px;
 	padding:7px 5px;
@@ -724,7 +724,7 @@ p a:hover {
 	border:0;
 }
 .body div div div div.register form div input#submit {
-	background:url(../interface.png) no-repeat -276px -404px;
+	background:url(../images/interface.png) no-repeat -276px -404px;
 	cursor:pointer;
 	float:right;
 	height:32px;
@@ -740,7 +740,7 @@ p a:hover {
 	letter-spacing:0.028em;
 }
 .body div div div div.register form div input#submit:hover {
-	background:url(../interface.png) no-repeat -276px -457px;
+	background:url(../images/interface.png) no-repeat -276px -457px;
 }
 .body div div div div.application form div:first-child input#gender2 {
 	background:none;
@@ -769,7 +769,7 @@ p a:hover {
 	width:130px;
 }
 .body div div div div.application form input#application-submit {
-	background:url(../interface.png) no-repeat -189px -859px;
+	background:url(../images/interface.png) no-repeat -189px -859px;
 	border:0 none;
 	clear:both;
 	cursor:pointer;
@@ -787,10 +787,10 @@ p a:hover {
 	padding:0 0 3px;
 }
 .body div div div div.application form input#application-submit:hover {
-	background:url(../interface.png) no-repeat -215px -1066px;
+	background:url(../images/interface.png) no-repeat -215px -1066px;
 }
 .body div div div div.application textarea#address {
-	background:url(../interface.png) no-repeat -10px -404px;
+	background:url(../images/interface.png) no-repeat -10px -404px;
 	border:0;
 	color:#776855;
 	font-size:14px;
@@ -803,7 +803,7 @@ p a:hover {
 	font-size:14px;
 }
 .body div div div div.application form div input {
-	background:url(../interface.png) no-repeat -10px -946px;
+	background:url(../images/interface.png) no-repeat -10px -946px;
 	border:0;
 	padding:7px 5px;
 	width:250px;
@@ -852,7 +852,7 @@ p a:hover {
 	margin:0 0 15px;
 }
 .body div div div div.staff div.first form input {
-	background:url(../interface.png) no-repeat -10px -906px;
+	background:url(../images/interface.png) no-repeat -10px -906px;
 	border:0;
 	color:#7c8668;
 	font-size:16px;
@@ -884,7 +884,7 @@ p a:hover {
 	color:#707070!important;
 }
 .body div div div div.staff div.first form input#submit {
-	background:url(../interface.png) no-repeat -333px -603px;
+	background:url(../images/interface.png) no-repeat -333px -603px;
 	cursor:pointer;
 	float:right;
 	height:32px;
@@ -901,13 +901,13 @@ p a:hover {
 	font-style:normal;
 }
 .body div div div div.staff div.first form input#submit:hover {
-	background:url(../interface.png) no-repeat -333px -643px;
+	background:url(../images/interface.png) no-repeat -333px -643px;
 }
 .body div div div div.staff div p {
 	margin: 14px 0 26px;
 }
 .body div div div div.staff div a {
-	background:url(../interface.png) no-repeat -293px -904px;
+	background:url(../images/interface.png) no-repeat -293px -904px;
 	float:none;
 	height:29px;
 	margin:54px auto;
@@ -922,7 +922,7 @@ p a:hover {
 	padding:3px 0 0;
 }
 .body div div div div.staff div a:hover {
-	background:url(../interface.png) no-repeat -293px -948px;
+	background:url(../images/interface.png) no-repeat -293px -948px;
 	color:#fff!important;
 }
 .body div div div div.staff div ul {
@@ -932,7 +932,7 @@ p a:hover {
 }
 .body div div div div.staff div ul li {
 	border:0;
-	background:url(../interface.png) no-repeat -362px 2px;
+	background:url(../images/interface.png) no-repeat -362px 2px;
 	padding:0 0 0 20px;
 	margin:0 0 7px;
 }
@@ -1113,7 +1113,7 @@ p a:hover {
 	line-height: 30px;
 }
 .body div.contact form textarea {
-	background:url(../interface.png) no-repeat -10px -244px;
+	background:url(../images/interface.png) no-repeat -10px -244px;
 	border:0;
 	color:#776855;
 	font-size:14px;
@@ -1126,7 +1126,7 @@ p a:hover {
 	font-size:14px;
 }
 .body div.contact form input#submit {
-	background:url(../interface.png) no-repeat -333px -603px;
+	background:url(../images/interface.png) no-repeat -333px -603px;
 	float:right;
 	height:32px;
 	margin-right:263px;
@@ -1143,7 +1143,7 @@ p a:hover {
 	font-size:16px;
 }
 .body div.contact form input#submit:hover {
-	background:url(../interface.png) no-repeat -333px -643px;
+	background:url(../images/interface.png) no-repeat -333px -643px;
 }
 .body div.contact div div div.contact {
 	border-bottom: 0 none;
@@ -1196,7 +1196,7 @@ p a:hover {
 	width:900px;
 }
 .footer div:first-child div:first-child {
-	background:url(../interface.png) no-repeat -10px 0;
+	background:url(../images/interface.png) no-repeat -10px 0;
 	height:234px;
 	margin:22px 0 0;
 	width:285px;
@@ -1225,7 +1225,7 @@ p a:hover {
 	overflow:hidden;
 }
 .footer div:first-child div:first-child input:first-child {
-	background:url(../interface.png) no-repeat -10px -1066px;
+	background:url(../images/interface.png) no-repeat -10px -1066px;
 	color:#fff;
 	cursor:auto;
 	font-size:16px;
@@ -1242,10 +1242,10 @@ p a:hover {
 	text-transform:capitalize;
 }
 .footer div:first-child div:first-child input:first-child:hover {
-	background:url(../interface.png) no-repeat -10px -1066px;
+	background:url(../images/interface.png) no-repeat -10px -1066px;
 }
 .footer div:first-child div:first-child input {
-	background:url(../interface.png) no-repeat -380px -684px;
+	background:url(../images/interface.png) no-repeat -380px -684px;
 	border:0;
 	cursor:pointer;
 	float:left;
@@ -1262,7 +1262,7 @@ p a:hover {
 	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 }
 .footer div:first-child div:first-child input:hover {
-	background:url(../interface.png) no-repeat -380px -717px;
+	background:url(../images/interface.png) no-repeat -380px -717px;
 }
 .footer div:first-child div {
 	float:left;
@@ -1287,7 +1287,7 @@ p a:hover {
 	padding:0 0 11px;
 }
 .footer div:first-child div ul li {
-	background:url(../border-horizontal.gif) repeat-x left top;
+	background:url(../images/border-horizontal.gif) repeat-x left top;
 	padding:3px 0 11px;
 	position:relative;
 }
@@ -1341,27 +1341,27 @@ p a:hover {
 	color:#aaaaaa;
 }
 .footer div:first-child div.connect a.facebook {
-	background:url(../icons.png) no-repeat 0 -98px;
+	background:url(../images/icons.png) no-repeat 0 -98px;
 	height:22px;
 	margin:22px 0 0 2px;
 	padding-left:40px;
 	width:30px;
 }
 .footer div:first-child div.connect a.facebook:hover {
-	background:url(../icons.png) no-repeat 0 -123px;
+	background:url(../images/icons.png) no-repeat 0 -123px;
 }
 .footer div:first-child div.connect a.twitter {
-	background:url(../icons.png) no-repeat 0 0;
+	background:url(../images/icons.png) no-repeat 0 0;
 	height:20px;
 	margin:45px 0 0 2px;
 	padding-left:40px;
 	width:30px;
 }
 .footer div:first-child div.connect a.twitter:hover {
-	background:url(../icons.png) no-repeat 0 -23px;
+	background:url(../images/icons.png) no-repeat 0 -23px;
 }
 .footer div:first-child div.connect a.google {
-	background:url(../icons.png) no-repeat 0 -46px;
+	background:url(../images/icons.png) no-repeat 0 -46px;
 	height:23px;
 	line-height: 26px;
 	margin:34px 0 0 2px;
@@ -1369,10 +1369,10 @@ p a:hover {
 	width:30px;
 }
 .footer div:first-child div.connect a.google:hover {
-	background:url(../icons.png) no-repeat 0 -72px;
+	background:url(../images/icons.png) no-repeat 0 -72px;
 }
 .footer div {
-	background:url(../border-horizontal.gif) repeat-x left top;
+	background:url(../images/border-horizontal.gif) repeat-x left top;
 }
 .footer div p {
 	color:#6b7459;
